@@ -1,0 +1,40 @@
+
+#fundo {
+	width: 60%;
+	height: 500px;
+	background-color: lightgrey;
+}
+
+#logo {
+	margin-top: 1cm;
+	margin-left: 1cm;
+}
+
+a {
+	 margin: 1cm;
+	 color: black;
+	 border-bottom-width: 90px solid;
+
+}
+
+#links {
+	margin-top: 0.5cm;
+}
+
+hr {
+		margin-right: 100px;
+		color: black;
+}
+#pr {
+	margin-top: 4.59cm;
+	float: right;
+}
+
+footer {
+	 position: absolute;
+     bottom: 34%;
+     height: 4%;
+     width: 59.4%;
+	background-color: black;
+	color: white;
+	text-align: center;

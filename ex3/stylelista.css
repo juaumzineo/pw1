@@ -1,0 +1,25 @@
+body {
+background-color: lightgreen;
+}
+
+ul {
+margin: 1cm;
+font-family: verdana ;
+font-size: 20px ;
+}
+
+p {
+margin: 1cm;
+font-family: verdana ;
+font-size: 20px ;
+}
+
+h1 {
+margin: 1cm;
+font-family: verdana;
+}
+
+#teste {
+margin: 1cm;
+background-color: white;
+}
